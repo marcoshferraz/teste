@@ -1,1 +1,1 @@
-# teste
+Meu nome é Marcos, eu tenho 15 anos, estudo na 1°B do ensino médio no colégio Guilherme de Almeida, moro na cidade de Santa Izabel do Oeste, faço uma matéria que se chama “pensamento computacional”, gosto de programação e tecnologia, adoro mudar códigos e mexer em arquivos, e meu sono é ser um programador bem sucedido.
